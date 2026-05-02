@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="190" viewBox="35 40 240 190" fill="none">
+  <g id="hieasyx-icon">
+    <path
+      d="M 205 121 V 67 C 205 56 197 48 185 48 H 66 C 55 48 47 56 47 67 V 158 C 47 170 55 178 67 178 H 145"
+      stroke="#1473EE"
+      stroke-width="17"
+      stroke-linecap="round"
+      stroke-linejoin="round"/>
+
+    <circle cx="83" cy="78" r="8" fill="#1473EE"/>
+    <circle cx="112" cy="78" r="8" fill="#1473EE"/>
+    <circle cx="141" cy="78" r="8" fill="#1473EE"/>
+
+    <path
+      d="M 154 128 C 150 125 145 128 146 133 L 184 214 C 187 221 197 221 201 214 L 217 180 L 263 171 C 271 169 273 158 266 153 Z"
+      fill="#1473EE"/>
+  </g>
+</svg>
